@@ -1,0 +1,19 @@
+.rowg{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.rowf{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.z:hover{
+
+background-color: rgb(62, 113, 194);
+color: azure;
+}
